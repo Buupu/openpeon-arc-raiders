@@ -1,10 +1,10 @@
 {
   "cesp_version": "1.0",
-  "name": "arc-raiders",
-  "display_name": "Arc Raiders",
+  "name": "arc-raiders-emotes",
+  "display_name": "Arc Raiders Emotes",
   "version": "1.0.0",
-  "description": "Sound pack using audio from Arc Raiders",
-  "author": { "name": "sammyfattah", "github": "sammyfattah" },
+  "description": "Arc Raiders emote voice lines — hey there, let's boogie, don't shoot, and more",
+  "author": { "name": "Buupu", "github": "Buupu" },
   "license": "CC-BY-NC-4.0",
   "language": "en",
   "categories": {
