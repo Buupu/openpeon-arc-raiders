@@ -1,0 +1,30 @@
+{
+  "cesp_version": "1.0",
+  "name": "arc-raiders",
+  "display_name": "Arc Raiders",
+  "version": "1.0.0",
+  "description": "Sound pack using audio from Arc Raiders",
+  "author": { "name": "sammyfattah", "github": "sammyfattah" },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [{ "file": "sounds/man - hey there - Arc Raider Emotes.mp3", "label": "Hey there" }]
+    },
+    "task.acknowledge": {
+      "sounds": [{ "file": "sounds/man - let's boogie - Arc Raider Emotes.mp3", "label": "Let's boogie" }]
+    },
+    "task.complete": {
+      "sounds": [{ "file": "sounds/man - yeah, check this out - Arc Raider Emotes.mp3", "label": "Yeah, check this out" }]
+    },
+    "task.error": {
+      "sounds": [{ "file": "sounds/ARC Raiders _ Deadline blowing you up.mp3", "label": "Deadline blowing you up" }]
+    },
+    "input.required": {
+      "sounds": [{ "file": "sounds/man - don't shoot 1 - Arc Raider Emotes.mp3", "label": "Don't shoot" }]
+    },
+    "resource.limit": {
+      "sounds": [{ "file": "sounds/ARC Raiders _ Lure Grenade.mp3", "label": "Lure Grenade" }]
+    }
+  }
+}
